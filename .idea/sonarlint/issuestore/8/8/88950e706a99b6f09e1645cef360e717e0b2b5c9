@@ -1,0 +1,73 @@
+
+d
+java:S2184–"FCast one of the operands of this multiplication operation to a "long".(Ø›ëÀ8°²Ìà1
+i
+java:S2184—"FCast one of the operands of this multiplication operation to a "long".(ß·ÿ†øÿÿÿÿ8°²Ìà1
+i
+java:S2184˜"FCast one of the operands of this multiplication operation to a "long".(®×¸Üÿÿÿÿÿ8±²Ìà1
+_
+java:S2184›"BCast one of the operands of this division operation to a "double".(Ê½¨_8±²Ìà1
+_
+java:S2184"BCast one of the operands of this division operation to a "double".(É³ı'8±²Ìà1
+e
+java:S2184¡"BCast one of the operands of this division operation to a "double".(õŒù³úÿÿÿÿ8±²Ìà1
+`
+java:S2184£"BCast one of the operands of this division operation to a "double".(¢í¦8±²Ìà1
+|
+java:S1149$"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8í²Ìà1
+|
+java:S1149x"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8í²Ìà1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ïƒéş8î²Ìà1
+F
+java:S1905")Remove this unnecessary cast to "double".(®îá³8ş²Ìà1
+F
+java:S1905")Remove this unnecessary cast to "double".(®îá³8ş²Ìà1
+F
+java:S1905")Remove this unnecessary cast to "double".(®îá³8ş²Ìà1
+F
+java:S19053")Remove this unnecessary cast to "double".(®îá³8€²Ìà1
+F
+java:S19053")Remove this unnecessary cast to "double".(®îá³8€²Ìà1
+F
+java:S19053")Remove this unnecessary cast to "double".(®îá³8€²Ìà1
+F
+java:S19057")Remove this unnecessary cast to "double".(¼ÜÍÂ8²Ìà1
+F
+java:S1905:")Remove this unnecessary cast to "double".(ÑŒ¼ø8²Ìà1
+F
+java:S1905=")Remove this unnecessary cast to "double".(ˆ®†ï8‚²Ìà1
+X	java:S125Z"<This block of commented-out lines of code should be removed.(„ßëé8„²Ìà1
+F
+java:S1905c")Remove this unnecessary cast to "double".(®îá³8…²Ìà1
+F
+java:S1905c")Remove this unnecessary cast to "double".(®îá³8…²Ìà1
+F
+java:S1905c")Remove this unnecessary cast to "double".(®îá³8…²Ìà1
+K
+java:S1905e")Remove this unnecessary cast to "double".(®Ú™íıÿÿÿÿ8…²Ìà1
+K
+java:S1905h")Remove this unnecessary cast to "double".(ÂÑæÍûÿÿÿÿ8…²Ìà1
+F
+java:S1905k")Remove this unnecessary cast to "double".(¼ÜÍÂ8…²Ìà1
+F
+java:S1905n")Remove this unnecessary cast to "double".(ÑŒ¼ø8†²Ìà1
+F
+java:S1905q")Remove this unnecessary cast to "double".(ˆ®†ï8†²Ìà1
+X	java:S125v"<This block of commented-out lines of code should be removed.(Œ†Ê†8†²Ìà1
+I
+java:S2185›",Remove this unnecessary call to "Math.floor"(Ê½¨_8‰²Ìà1
+I
+java:S2185",Remove this unnecessary call to "Math.floor"(É³ı'8‰²Ìà1
+O
+java:S2185¡",Remove this unnecessary call to "Math.floor"(õŒù³úÿÿÿÿ8‰²Ìà1
+J
+java:S2185£",Remove this unnecessary call to "Math.floor"(¢í¦8‰²Ìà1
+E
+java:S1905¼"'Remove this unnecessary cast to "long".(ö”Åî8²Ìà1
+J
+java:S1905¾"'Remove this unnecessary cast to "long".(›†–œşÿÿÿÿ8²Ìà1
+J
+java:S1905À"'Remove this unnecessary cast to "long".(Ã•¢½ıÿÿÿÿ8²Ìà1
+D
+java:S1905Â"'Remove this unnecessary cast to "long".(áæÄ88²Ìà1
